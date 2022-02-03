@@ -1,0 +1,17 @@
+.Name {
+    width: 320px;
+    padding: 20px;
+    height: 120px;
+    box-shadow: 2px 2px 1px 2px #cccccc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    span {
+        color: darkblue;
+    }
+    &:hover{
+        background-color: #f7f7f7;
+    }
+}
+
+
